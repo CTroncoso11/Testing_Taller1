@@ -1,0 +1,13 @@
+Requisitos del sistema:
+  Plataformas soportadas: 
+    - Windows
+    - Linux
+    - Mac
+  
+  Software necesario:
+    - Python 3.x en adelante (se recomienda la versión 3.6)
+
+Ejecucion:
+  - Abrir consola de comandos, terminal o Shell.
+  - Posicionarse en el directorio de este programa.
+  - Ejecutar "python main.py" ó "python3 main.py"  
