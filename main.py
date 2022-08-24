@@ -148,10 +148,3 @@ if __name__ == "__main__":
   clearTerminal()
   deathProbability = calculateDeathProbabilities(ageFactor, genderFactor, morbSumFact)
   print(" Probabilidades de muerte: ", round(deathProbability * 100, 2), "%")
-  print(" \n=======CREDITOS========")
-  print(" Hecho por:  Cristian Troncoso Lillo")
-
-# Taller 1 - Parte 1
-# Cristian Troncoso Lillo
-# 20.244.468-7
-# NRC: 7347  
